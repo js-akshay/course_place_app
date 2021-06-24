@@ -24,4 +24,7 @@ class Place {
     @required this.location,
     @required this.image,
   });
+
+
+  
 }
